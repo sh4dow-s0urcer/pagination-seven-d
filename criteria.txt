@@ -1,0 +1,8 @@
+Paginator in D
+
+Criterios del programa de paginación:
+
+CRT-001 El programa debe tener las condiciones necesarias para las funciones lógicas.
+CRT-002 El programa debe cumplir con las mejores prácticas de programación en D.
+CRT-003 El programa debe asimilar la lógica de paginación.
+CRT-004 El programa debe cumplir con los requerimientos de usuario.

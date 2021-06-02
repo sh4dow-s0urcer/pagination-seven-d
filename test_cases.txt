@@ -1,0 +1,10 @@
+Paginator in D
+
+Casos de prueba del programa:
+
+No. de caso de prueba / Descripción del caso de prueba / Pasos para la ejecución / Resultados esperados
+
+TS-001 / 7 espacios en todos los casos / Ejecutar el case de prueba / 1. Verificar que solo haya 7 espacios 2. Pasar la prueba.
+TS-002 / Reemplazar una gran cantidad de páginas por puntos suspensivos / Ejecutar el caso de prueba / 1. Verificar que se reemplaza la cantidad de páginas por puntos suspensivos 2. Pasar la prueba.
+TS-003 / Colocar página actual entre paréntesis / Ejecutar el caso de prueba / 1. Verificar que la página actual esté entre paréntesis. 2. Pasar la prueba.
+TS-004 / La página actual es incorrecta / Ejecutar el caso de prueba / 1. Verificar que la página actual esté acorde al programa original. 2. Fallar la prueba.

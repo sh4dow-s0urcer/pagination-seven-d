@@ -1,0 +1,15 @@
+Paginator in D
+
+Requerimientos funcionales
+
+REQ-001 El programa deberá utilizar siete espacios para la paginación.
+REQ-002 El programa deberá encapsular la página actual entre paréntesis.
+REQ-003 El programa deberá sustuir con puntos suspensivos un extenso grupo de páginas.
+REQ-004 El programa permitirá visualizar la última página.
+REQ-005 El programa permitirá visualizar la primera página.
+REQ-006 El programa permitirá visualizar la página siguiente.
+REQ-007 El programa permitirá visualizar la página anterior.
+
+Requerimientos no funcionales
+
+RQN-001 El programa deberá ser integro y completamente seguro.
